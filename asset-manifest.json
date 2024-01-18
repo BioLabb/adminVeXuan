@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adminVeXuan/static/css/main.2e262e86.css",
+    "main.js": "/adminVeXuan/static/js/main.ad983e6b.js",
+    "static/js/787.d5a0c442.chunk.js": "/adminVeXuan/static/js/787.d5a0c442.chunk.js",
+    "index.html": "/adminVeXuan/index.html",
+    "main.2e262e86.css.map": "/adminVeXuan/static/css/main.2e262e86.css.map",
+    "main.ad983e6b.js.map": "/adminVeXuan/static/js/main.ad983e6b.js.map",
+    "787.d5a0c442.chunk.js.map": "/adminVeXuan/static/js/787.d5a0c442.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e262e86.css",
+    "static/js/main.ad983e6b.js"
+  ]
+}
